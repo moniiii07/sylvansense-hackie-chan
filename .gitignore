@@ -4,3 +4,25 @@ data/processed/
 *.tif
 __pycache__/
 .ipynb_checkpoints/
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated ML training logs
+lightning_logs/
+
+# Anaconda project database
+anaconda_projects/db/*.db
+
+# OS files
+.DS_Store
