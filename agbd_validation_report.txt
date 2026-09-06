@@ -1,0 +1,8 @@
+SylvaSense AGB regression validation
+===================================
+Total GEDI-labelled samples: 3000
+Training samples: 2250
+Test samples: 750
+MAE: 65.36 Mg/ha
+RMSE: 84.72 Mg/ha
+R²: 0.162
